@@ -1,1 +1,2 @@
 Day la file demo
+Day la dong duoc nhap tu server
